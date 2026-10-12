@@ -19,7 +19,7 @@ Full-stack engineer with 4+ years of shipping web products, and lately AI produc
 | | |
 |---|---|
 | **Toprak Rehberi** · 2024–2026 | Front-end for a web platform and internal CRM `Nuxt.js` |
-| **ANDRE.ai** (Geneva) · 2024–2025 | Interface and chart rendering for an automated storytelling engine, part-time `Next.js` |
+| **ANDRE.ai** · 2024–2025 | Interface and chart rendering for an automated storytelling engine, part-time `Next.js` |
 | **Naylalabs** · 2022–2024 | CMS, CRM and SaaS products for agency clients `React` `SCSS` |
 | **Global Media** · 2022 | Internal CRM tools replacing manual workflows |
 
